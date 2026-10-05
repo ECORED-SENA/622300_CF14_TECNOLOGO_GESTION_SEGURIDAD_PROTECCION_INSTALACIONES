@@ -210,7 +210,7 @@
               .caja-6_p
                 p.mb-0 Detectar un sensor con batería baja y solicitar mantenimiento antes de que quede fuera de servicio.
         .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
-          .caja-6.h-100
+          .caja-6.color-9.h-100
             .row.justify-content-center.mb-3
               .col-12
                 figure.mb-4
@@ -228,7 +228,7 @@
               .caja-6_p
                 p.mb-0 Actualizar las frecuencias de radio antes de un evento masivo.
         .col-xl-3.col-md-9(data-aos="fade-left")
-          .caja-6.h-100
+          .caja-6.color-9.h-100
             .row.justify-content-center.mb-3
               .col-12
                 figure.mb-4

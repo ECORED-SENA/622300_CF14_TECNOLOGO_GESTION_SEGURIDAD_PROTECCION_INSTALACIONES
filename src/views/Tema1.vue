@@ -110,7 +110,7 @@
         .col-xl
           .caja-1.color-1(data-aos="fade-left").mb-3
             p.mb-0 Las #[b técnicas de diagnóstico en seguridad] constituyen instrumentos analíticos que permiten evaluar la situación real del servicio, identificar vulnerabilidades y anticipar riesgos. El diagnóstico incluye la revisión sistemática del entorno, los registros operativos, los patrones identificados, el funcionamiento de los equipos, los puntos críticos del perímetro y la correspondencia entre los procedimientos establecidos y la práctica real.
-          p.mb-0 En el ámbito metodológico explica que estos diagnósticos deben integrar métodos multicriterio, análisis de causa raíz y enfoques probabilísticos para valorar el riesgo de manera objetiva. Para el supervisor, las técnicas de diagnóstico permiten tomar decisiones preventivas, ajustar consignas y fortalecer los sistemas de monitoreo y control.
+          p.mb-0 En el ámbito metodológico, explica que estos diagnósticos deben integrar métodos multicriterio, análisis de causa raíz y enfoques probabilísticos para valorar el riesgo de manera objetiva. Para el supervisor, las técnicas de diagnóstico permiten tomar decisiones preventivas, ajustar consignas y fortalecer los sistemas de monitoreo y control.
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.2 Informes técnicos de seguridad
