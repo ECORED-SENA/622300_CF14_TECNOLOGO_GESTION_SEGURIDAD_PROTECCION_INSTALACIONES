@@ -178,7 +178,7 @@
           p.mb-0 Un informe técnico bien elaborado es clave para mantener la integridad del sistema de protección, pues constituye evidencia en procesos disciplinarios, contractuales, penales, civiles o administrativos. Asimismo, los informes permiten detectar patrones operativos, identificar fallas recurrentes, proponer mejoras y fortalecer la toma de decisiones en los niveles estratégicos. Como complemento del tema, se incluye el siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/8BettKA1AgY" title="Análisis de la información y elaboración de informes técnicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/MbkJ504rSC4?si=Yah5yIH14iQ_x0Uf" title="Análisis de la información y elaboración de informes técnicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Elaboración y presentación de informes técnicos
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -191,7 +191,7 @@
       p.mb-5 La evaluación constituye un mecanismo de control estratégico que contribuye a garantizar que el servicio opere con calidad, continuidad y proporcionalidad frente a las amenazas existentes. Para complementar los conceptos asociados con este proceso, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/i6dVhxVyws0?si=YW4qiPK9_kWkI2eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Evaluación del servicio
       .caja-4.mb-5(data-aos="zoom-in")
         .row.align-items-center
@@ -597,7 +597,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/curso/temas/t1/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/podcast/evaluacion.mp3'
 export default {
   name: 'Tema1',
   data: () => ({

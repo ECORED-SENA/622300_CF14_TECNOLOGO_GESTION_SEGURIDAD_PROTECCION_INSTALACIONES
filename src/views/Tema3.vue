@@ -30,7 +30,7 @@
           p.mb-0 Las #[b acciones preventivas y correctivas] constituyen pilares centrales de los sistemas de gestión de calidad y del control operativo en seguridad privada. La #[b ISO 9001] establece que toda organización debe identificar desviaciones reales o potenciales, analizar sus causas y ejecutar acciones destinadas a evitar su recurrencia o materialización. En el contexto de la seguridad, estas acciones permiten mantener la confiabilidad del sistema, fortalecer la operación y asegurar el cumplimiento contractual. Para complementar estos conceptos, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/oLgd6Wp_cew?si=3-cJ6QVgSKWIZr2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Acciones preventivas y correctivas
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
@@ -386,7 +386,7 @@
       p.mb-5 La gestión de la información constituye un componente estructural del sistema de protección, cuyo objetivo es asegurar que los datos circulen de manera controlada y precisa entre los diferentes niveles de la organización, manteniendo su integridad y disponibilidad. Para complementar estos conceptos, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/SJD6Na2bWOE" title="Gestión de la información" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/0A1MhEh-giw?si=pXLZLh112VYHa6Fg" title="Gestión de la información" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Gestión de la información en seguridad
       p.mb-5 Los tipos de información en seguridad responden a diferentes necesidades operativas, técnicas, administrativas, legales y estratégicas:
       .bg-slider.mb-5
@@ -555,7 +555,7 @@
           p.mb-0 ISO (2015) señala que la mejora no se limita a corregir fallas o errores, sino que implica identificar oportunidades, optimizar procesos, prevenir no conformidades y aumentar la capacidad de la organización para satisfacer requisitos operativos y del cliente. En el ámbito de la seguridad privada, esto se traduce en ajustar procedimientos, fortalecer la capacidad de reacción, optimizar la gestión de la información y garantizar que los resultados operativos se alineen con los estándares de protección definidos. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/sStjStiu2Lw?si=wPuGG12OFVAq4wFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Mejora en la NTC-ISO 9001:2015
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
@@ -810,7 +810,7 @@
       p.mb-5 En el Manual de Gestión de Crisis, señala que cada evento debe servir para identificar vulnerabilidades, corregir prácticas inadecuadas y ajustar los procedimientos operativos. Esta concepción convierte cada incidente en una oportunidad para perfeccionar el sistema de seguridad y evitar la recurrencia de errores o fallas. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/9-hhEzzGMZg?si=8CZxRYnfdfUcAhC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Mejora continua
       p La mejora continua se desarrolla como un ciclo permanente de #[b revisión, aprendizaje y adaptación]. No consiste únicamente en corregir errores puntuales, sino en mantener un seguimiento activo de los procedimientos, los equipos, la documentación, la conducta del personal y la capacidad de respuesta.
       p.mb-5 El proceso de mejora debe ser sistemático y documentado, incorporando los resultados del análisis de cada incidente y la información proveniente de auditorías, supervisiones, reportes y evaluaciones del servicio.
@@ -989,7 +989,7 @@
           p.mb-0 Según ISO (2015), todo sistema de gestión debe contar con mecanismos formales que permitan planificar, ejecutar y verificar acciones destinadas a resolver no conformidades, atender hallazgos de auditoría y consolidar mejoras continuas. En este contexto, el plan de mejoramiento constituye la operacionalización del #[b ciclo PHVA (Planificar-Hacer-Verificar-Actuar)], articulando las causas identificadas con las acciones propuestas y los resultados esperados. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/itQPZCMtpQg?si=cD0WDO-H8clX3UbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Plan de mejoramiento
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
