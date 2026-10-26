@@ -127,7 +127,7 @@
           p.mb-0 Este tipo de informe constituye una parte esencial del sistema de gestión del riesgo y representa la interfaz entre la operación y la administración del servicio. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/MbkJ504rSC4?si=ya5V7yVWLSDpZwha" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Informe técnico de seguridad
       p.mb-5 Las características fundamentales del informe derivan de los estándares de redacción técnica aplicados al ámbito de la seguridad. Para garantizar su utilidad operativa y documental, debe cumplir las siguientes condiciones:
       .bg-slider.mb-5
@@ -178,7 +178,7 @@
           p.mb-0 Un informe técnico bien elaborado es clave para mantener la integridad del sistema de protección, pues constituye evidencia en procesos disciplinarios, contractuales, penales, civiles o administrativos. Asimismo, los informes permiten detectar patrones operativos, identificar fallas recurrentes, proponer mejoras y fortalecer la toma de decisiones en los niveles estratégicos. Como complemento del tema, se incluye el siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/MbkJ504rSC4?si=Yah5yIH14iQ_x0Uf" title="Análisis de la información y elaboración de informes técnicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/fqOMAQrqN6o?si=RR1dZ1GY-4yP7vCb" title="Análisis de la información y elaboración de informes técnicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Elaboración y presentación de informes técnicos
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -191,7 +191,7 @@
       p.mb-5 La evaluación constituye un mecanismo de control estratégico que contribuye a garantizar que el servicio opere con calidad, continuidad y proporcionalidad frente a las amenazas existentes. Para complementar los conceptos asociados con este proceso, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/i6dVhxVyws0?si=YW4qiPK9_kWkI2eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/i6dVhxVyws0?si=2As4tbIvJ8J2RbOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Evaluación del servicio
       .caja-4.mb-5(data-aos="zoom-in")
         .row.align-items-center

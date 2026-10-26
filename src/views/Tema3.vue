@@ -30,7 +30,7 @@
           p.mb-0 Las #[b acciones preventivas y correctivas] constituyen pilares centrales de los sistemas de gestión de calidad y del control operativo en seguridad privada. La #[b ISO 9001] establece que toda organización debe identificar desviaciones reales o potenciales, analizar sus causas y ejecutar acciones destinadas a evitar su recurrencia o materialización. En el contexto de la seguridad, estas acciones permiten mantener la confiabilidad del sistema, fortalecer la operación y asegurar el cumplimiento contractual. Para complementar estos conceptos, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/oLgd6Wp_cew?si=3-cJ6QVgSKWIZr2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/oLgd6Wp_cew?si=BIFtl1Qk6AjMqHCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Acciones preventivas y correctivas
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
@@ -386,7 +386,7 @@
       p.mb-5 La gestión de la información constituye un componente estructural del sistema de protección, cuyo objetivo es asegurar que los datos circulen de manera controlada y precisa entre los diferentes niveles de la organización, manteniendo su integridad y disponibilidad. Para complementar estos conceptos, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/0A1MhEh-giw?si=pXLZLh112VYHa6Fg" title="Gestión de la información" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/sSVQeNsLk-8?si=yiINYjcs8ILoKLkG" title="Gestión de la información" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Gestión de la información en seguridad
       p.mb-5 Los tipos de información en seguridad responden a diferentes necesidades operativas, técnicas, administrativas, legales y estratégicas:
       .bg-slider.mb-5
@@ -686,7 +686,7 @@
       p.mb-5 En el sector de la seguridad privada, las no conformidades afectan directamente la integridad del servicio y pueden manifestarse mediante fallas en los registros, rondas ejecutadas de manera inadecuada, dificultades en el manejo de equipos, omisiones en la verificación de accesos o deficiencias durante una emergencia. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/TB9KMt0jrUg?si=JqYMrI6jeaSq_6ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. No conformidades
       p.mb-5 La literatura técnica distingue dos clases de no conformidades:
       .tarjeta--container.row.justify-content-center.mb-5.m-0(data-aos="zoom-in")
@@ -989,7 +989,7 @@
           p.mb-0 Según ISO (2015), todo sistema de gestión debe contar con mecanismos formales que permitan planificar, ejecutar y verificar acciones destinadas a resolver no conformidades, atender hallazgos de auditoría y consolidar mejoras continuas. En este contexto, el plan de mejoramiento constituye la operacionalización del #[b ciclo PHVA (Planificar-Hacer-Verificar-Actuar)], articulando las causas identificadas con las acciones propuestas y los resultados esperados. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/itQPZCMtpQg?si=cD0WDO-H8clX3UbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/sStjStiu2Lw?si=2ehpD2HafkwlHzFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Plan de mejoramiento
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
@@ -1132,7 +1132,7 @@
       p.mb-5 Para complementar el proceso de elaboración del plan, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/itQPZCMtpQg?si=3Sbq34Wrj0QKKkT1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Elaboración del plan de mejoramiento organizacional
       .row.justify-content-center.align-items-center.mb-5
         .col-xl-8
