@@ -686,7 +686,7 @@
       p.mb-5 En el sector de la seguridad privada, las no conformidades afectan directamente la integridad del servicio y pueden manifestarse mediante fallas en los registros, rondas ejecutadas de manera inadecuada, dificultades en el manejo de equipos, omisiones en la verificación de accesos o deficiencias durante una emergencia. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/TB9KMt0jrUg?si=JqYMrI6jeaSq_6ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/sStjStiu2Lw?si=2ehpD2HafkwlHzFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. No conformidades
       p.mb-5 La literatura técnica distingue dos clases de no conformidades:
       .tarjeta--container.row.justify-content-center.mb-5.m-0(data-aos="zoom-in")
@@ -989,7 +989,7 @@
           p.mb-0 Según ISO (2015), todo sistema de gestión debe contar con mecanismos formales que permitan planificar, ejecutar y verificar acciones destinadas a resolver no conformidades, atender hallazgos de auditoría y consolidar mejoras continuas. En este contexto, el plan de mejoramiento constituye la operacionalización del #[b ciclo PHVA (Planificar-Hacer-Verificar-Actuar)], articulando las causas identificadas con las acciones propuestas y los resultados esperados. Para complementar este contenido, se dispone del siguiente recurso audiovisual:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/sStjStiu2Lw?si=2ehpD2HafkwlHzFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/TB9KMt0jrUg?si=JqYMrI6jeaSq_6ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Plan de mejoramiento
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
